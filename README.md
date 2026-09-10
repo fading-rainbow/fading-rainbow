@@ -4,6 +4,12 @@
 
 > 关注客户端生命周期、日志可观测性、状态机与工程可靠性。习惯把非结构化输入还原为可验证状态，再用回放、测试和真实运行证据完成闭环。
 
+## 项目总览
+
+[全部项目与发布状态](portfolio/README.md) · [工程案例与贡献边界](portfolio/CASE_STUDIES.md) · [本轮验证记录](portfolio/VALIDATION.md)
+
+新增整理：原神 OCR 字幕翻译工具、Sandrone Codex 宠物、QQ 聊天机器人和牌局机器人。独立源码仓库准备状态见项目总览。
+
 ## Featured work
 
 ### [DeltaForce.log 实时分析工具](https://github.com/fading-rainbow/DeltaForce-Log-Reconstruction)
