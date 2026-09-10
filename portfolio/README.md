@@ -1,15 +1,15 @@
 # MonHamed 项目作品集
 
-整理日期：2026-09-10。项目定位以现有源码为依据，验证情况见 VALIDATION.md。采用成熟开源组件构建应用，明确区分底层项目、定制工作与可验证成果。
+整理日期：2026-09-10。项目定位以现有源码为依据，验证情况见 [验证记录](VALIDATION.md)。采用成熟开源组件构建应用，明确区分底层项目、定制工作与可验证成果。
 
 | 项目 | 技术与展示重点 | 仓库 / 交付状态 |
 |---|---|---|
 | Mon_Token | Go、Vue、PostgreSQL、Redis；基于 Sub2API 的网关定制、计费与并发语义 | 已有私有仓库，保留私有；提供技术案例 |
 | Mon_Foree / Mon_VPN | Go、Kotlin、WPF/.NET；客户端生命周期、权限隔离、故障恢复 | 已有私有仓库，保留私有；提供技术案例 |
-| Genshin Subtitle Translator | Python、OCR、Windows 覆盖层；按需翻译与异步处理 | 本次整理脱敏源码 |
-| Sandrone Codex Pet | WebP 精灵图、JSON 配置；宠物素材与打包 | 本次整理实际安装资源 |
-| Sandrone QQ Bot | Python、SQLite、QQ SDK；记忆、任务取消、图片编辑与隔离 | 本次整理脱敏源码与测试 |
-| QQ Poker Bot | Python、WebSocket、SQLite；牌局状态机、边池结算与消息去重 | 本次整理脱敏源码与测试 |
+| [Genshin Subtitle Translator](https://github.com/fading-rainbow/Genshin-Subtitle-Translator) | Python、OCR、Windows 覆盖层；按需翻译与异步处理 | 已公开；脱敏源码与说明已上传 |
+| [Sandrone Codex Pet](https://github.com/fading-rainbow/Sandrone-Codex-Pet) | WebP 精灵图、JSON 配置；宠物素材与打包 | 已公开；脱敏源码与说明已上传 |
+| [Sandrone QQ Bot](https://github.com/fading-rainbow/Sandrone-QQ-Bot) | Python、SQLite、QQ SDK；记忆、任务取消、图片编辑与隔离 | 已公开；脱敏源码与说明已上传 |
+| [QQ Poker Bot](https://github.com/fading-rainbow/QQ-Poker-Bot) | Python、WebSocket、SQLite；牌局状态机、边池结算与消息去重 | 已公开；脱敏源码与说明已上传 |
 | Delta_God / Delta_see | AHK、Python；日志增量解码、状态重建与证据分级 | 已有公开 DeltaForce-Log-Reconstruction；原始抓包和日志不发布 |
 | developer set | PowerShell；开发环境配置、验证与回退脚本 | 本机运维材料，需提炼为通用脚本后发布 |
 | SVG 动画练习 | 单文件 HTML/SVG；动画、天气变化与交互 | 独立练习，辅助展示 |

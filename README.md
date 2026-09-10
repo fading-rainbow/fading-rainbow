@@ -8,7 +8,12 @@
 
 [全部项目与发布状态](portfolio/README.md) · [工程案例与贡献边界](portfolio/CASE_STUDIES.md) · [本轮验证记录](portfolio/VALIDATION.md)
 
-新增整理：原神 OCR 字幕翻译工具、Sandrone Codex 宠物、QQ 聊天机器人和牌局机器人。独立源码仓库准备状态见项目总览。
+已公开：
+
+- [原神 OCR 字幕翻译工具](https://github.com/fading-rainbow/Genshin-Subtitle-Translator)：按需截图、OCR 与 Windows 覆盖层。
+- [Sandrone Codex 宠物](https://github.com/fading-rainbow/Sandrone-Codex-Pet)：实际安装的精灵图与元数据资源包。
+- [Sandrone QQ 聊天机器人](https://github.com/fading-rainbow/Sandrone-QQ-Bot)：SQLite 记忆、异步图片任务，193 项测试通过。
+- [QQ 牌局机器人](https://github.com/fading-rainbow/QQ-Poker-Bot)：牌局状态机、边池与存储，29 项测试通过。
 
 ## Featured work
 
